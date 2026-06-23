@@ -99,27 +99,27 @@ Se creó una distribución de CloudFront utilizando el bucket S3 como origen del
 
 ## Habilidades Aplicadas
 
-AWS Cloud Computing
-Amazon S3
-Amazon CloudFront
-Object Storage
-CDN
-Static Website Hosting
-Arquitectura Serverless
-Publicación de aplicaciones web
-Gestión de contenido estático
-Optimización de rendimiento web
+- AWS Cloud Computing
+- Amazon S3
+- Amazon CloudFront
+- Object Storage
+- CDN
+- Static Website Hosting
+- Arquitectura Serverless
+- Publicación de aplicaciones web
+- Gestión de contenido estático
+- Optimización de rendimiento web
 
 
 ## Beneficios de la Solución
 
 
-Bajo costo operativo
-Alta disponibilidad
-Escalabilidad automática
-Distribución global de contenido
-Sin administración de servidores
-Arquitectura moderna basada en servicios administrados
+- Bajo costo operativo
+- Alta disponibilidad
+- Escalabilidad automática
+- Distribución global de contenido
+- Sin administración de servidores
+- Arquitectura moderna basada en servicios administrados
 
 
 
