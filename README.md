@@ -2,7 +2,7 @@
 Este proyecto consiste en la implementación de una arquitectura serverless para alojar un sitio web estático utilizando servicios de Amazon Web Services (AWS).
 La solución utiliza Amazon S3 para el almacenamiento y publicación de archivos HTML, CSS e imágenes, mientras que Amazon CloudFront se encarga de distribuir el contenido mediante una red global de entrega (CDN), mejorando el rendimiento y reduciendo la latencia para los usuarios.
 
-![Utilidad neta por proveedor](images/porta1.png)
+![Web](images/Porta1.png)
 
 ## Objetivo
 
