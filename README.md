@@ -25,7 +25,7 @@ Amazon S3 (Static Website Hosting)
 
 Imagen de arquitectura
 
-(INSERTAR IMAGEN: architecture-diagram.png)
+![diagrama](images/porta2.png)
 
 
 ## Servicios AWS Utilizados
