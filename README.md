@@ -89,17 +89,13 @@ index.html
 ![hosting](images/porta5.png)
 
 
-4. Configuración de CloudFront
+4. Configuración de CloudFront y Validación del Despliegue
 
-Se creó una distribución de CloudFront utilizando el bucket S3 como origen del contenido.
+Se creó una distribución de CloudFront utilizando el bucket S3 como origen del contenido. Se verificó el acceso exitoso al sitio mediante la URL generada por CloudFront.
 
-(INSERTAR IMAGEN: cloudfront-config.png)
+![cf](images/porta6.png)
 
-5. Validación del Despliegue
 
-Se verificó el acceso exitoso al sitio mediante la URL generada por CloudFront.
-
-(INSERTAR IMAGEN: deployment-success.png)
 
 ## Habilidades Aplicadas
 
