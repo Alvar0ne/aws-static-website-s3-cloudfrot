@@ -4,10 +4,15 @@ La solución utiliza Amazon S3 para el almacenamiento y publicación de archivos
 
 ![Web](images/Porta1.png)
 
+
+---
+
 ## Objetivo
 
 Implementar una solución de alojamiento web de bajo costo, alta disponibilidad y sin necesidad de administrar servidores, aplicando conceptos fundamentales de computación en la nube.
 
+
+---
 
 
 ## Arquitectura
@@ -23,9 +28,12 @@ Amazon CloudFront (CDN)
 Amazon S3 (Static Website Hosting)
 
 
-Imagen de arquitectura
+
 
 ![diagrama](images/porta2.png)
+
+
+---
 
 
 ## Servicios AWS Utilizados
@@ -34,18 +42,18 @@ Imagen de arquitectura
 
 Servicio de almacenamiento de objetos utilizado para:
 
-Almacenar archivos HTML
-Almacenar hojas de estilo CSS
-Almacenar imágenes y recursos estáticos
-Publicar contenido web estático
-Amazon CloudFront
+-Almacenar archivos HTML
+-Almacenar hojas de estilo CSS
+-Almacenar imágenes y recursos estáticos
+-Publicar contenido web estático
+-Amazon CloudFront
 
 ### Servicio CDN utilizado para:
 
-Distribuir contenido globalmente
-Reducir tiempos de carga
-Almacenar contenido en caché
-Entregar contenido mediante HTTPS
+-Distribuir contenido globalmente
+-Reducir tiempos de carga
+-Almacenar contenido en caché
+-Entregar contenido mediante HTTPS
 
 
 ## Implementación
