@@ -128,26 +128,26 @@ Arquitectura moderna basada en servicios administrados
 
 Durante este proyecto se adquirieron conocimientos prácticos sobre:
 
-Funcionamiento de Amazon S3 como alojamiento web estático.
-Uso de CloudFront como red de distribución de contenido (CDN).
-Relación entre almacenamiento de objetos y entrega de contenido.
-Arquitecturas serverless para aplicaciones web.
-Implementación de soluciones cloud de bajo costo.
+- Funcionamiento de Amazon S3 como alojamiento web estático.
+- Uso de CloudFront como red de distribución de contenido (CDN).
+- Relación entre almacenamiento de objetos y entrega de contenido.
+- Arquitecturas serverless para aplicaciones web.
+- Implementación de soluciones cloud de bajo costo.
 
 
 ## Tecnologías Utilizadas
 
-Amazon S3
-Amazon CloudFront
-HTML5
-CSS3
-AWS Management Console
+- Amazon S3
+- Amazon CloudFront
+- HTML5
+- CSS3
+- AWS Management Console
 
 
 ## Mejoras Futuras
 
-Implementación de dominio personalizado.
-Configuración de Route 53.
-Integración con AWS Certificate Manager (ACM).
-Automatización mediante GitHub Actions.
-Implementación utilizando Terraform o CloudFormation.
+- Implementación de dominio personalizado.
+- Configuración de Route 53.
+- Integración con AWS Certificate Manager (ACM).
+- Automatización mediante GitHub Actions.
+- Implementación utilizando Terraform o CloudFormation.
