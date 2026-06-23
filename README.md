@@ -86,7 +86,7 @@ Se habilitó el alojamiento web estático dentro de Amazon S3 y se configuró el
 
 index.html
 
-(INSERTAR IMAGEN: static-website-hosting.png)
+![hosting](images/porta5.png)
 
 
 4. Configuración de CloudFront
