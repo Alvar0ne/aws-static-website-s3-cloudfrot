@@ -1,15 +1,15 @@
-# aws-static-website-s3-cloudfrot
+# Proyecto AWS: Despliegue de Sitio Web Estático con Amazon S3 y CloudFront
 Este proyecto consiste en la implementación de una arquitectura serverless para alojar un sitio web estático utilizando servicios de Amazon Web Services (AWS).
 La solución utiliza Amazon S3 para el almacenamiento y publicación de archivos HTML, CSS e imágenes, mientras que Amazon CloudFront se encarga de distribuir el contenido mediante una red global de entrega (CDN), mejorando el rendimiento y reduciendo la latencia para los usuarios.
 
 
-Objetivo
+## Objetivo
 
 Implementar una solución de alojamiento web de bajo costo, alta disponibilidad y sin necesidad de administrar servidores, aplicando conceptos fundamentales de computación en la nube.
 
 
 
-Arquitectura
+## Arquitectura
 
 Usuario
 
@@ -27,9 +27,9 @@ Imagen de arquitectura
 (INSERTAR IMAGEN: architecture-diagram.png)
 
 
-Servicios AWS Utilizados
+## Servicios AWS Utilizados
 
-Amazon S3
+### Amazon S3
 
 Servicio de almacenamiento de objetos utilizado para:
 
@@ -39,7 +39,7 @@ Almacenar imágenes y recursos estáticos
 Publicar contenido web estático
 Amazon CloudFront
 
-Servicio CDN utilizado para:
+### Servicio CDN utilizado para:
 
 Distribuir contenido globalmente
 Reducir tiempos de carga
@@ -47,7 +47,7 @@ Almacenar contenido en caché
 Entregar contenido mediante HTTPS
 
 
-Implementación
+## Implementación
 
 
 1. Creación del Bucket S3
@@ -91,7 +91,7 @@ Se verificó el acceso exitoso al sitio mediante la URL generada por CloudFront.
 
 (INSERTAR IMAGEN: deployment-success.png)
 
-Habilidades Aplicadas
+## Habilidades Aplicadas
 
 AWS Cloud Computing
 Amazon S3
@@ -105,7 +105,7 @@ Gestión de contenido estático
 Optimización de rendimiento web
 
 
-Beneficios de la Solución
+## Beneficios de la Solución
 
 
 Bajo costo operativo
@@ -117,7 +117,7 @@ Arquitectura moderna basada en servicios administrados
 
 
 
-Aprendizajes Obtenidos
+## Aprendizajes Obtenidos
 
 
 Durante este proyecto se adquirieron conocimientos prácticos sobre:
@@ -129,7 +129,7 @@ Arquitecturas serverless para aplicaciones web.
 Implementación de soluciones cloud de bajo costo.
 
 
-Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 Amazon S3
 Amazon CloudFront
@@ -138,7 +138,7 @@ CSS3
 AWS Management Console
 
 
-Mejoras Futuras
+## Mejoras Futuras
 
 Implementación de dominio personalizado.
 Configuración de Route 53.
