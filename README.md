@@ -63,7 +63,7 @@ Servicio de almacenamiento de objetos utilizado para:
 
 Se creó un bucket dedicado para almacenar los archivos del sitio web.
 
-(INSERTAR IMAGEN: s3-bucket-created.png)
+![bucket](images/porta4.png)
 
 
 
@@ -76,7 +76,8 @@ CSS
 Imágenes
 Recursos estáticos
 
-(INSERTAR IMAGEN: s3-objects.png)
+
+![bucket2](images/porta3.png)
 
 
 3. Configuración de Static Website Hosting
